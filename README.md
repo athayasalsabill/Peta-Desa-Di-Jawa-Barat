@@ -1,7 +1,7 @@
 # Peta-Desa-Di-Jawa-Barat
 menunjukan wilayah-wilayah desa se-Jawa Barat
 
-you can download the geojson file in https://skin-cancer-detection-with-yolo.streamlit.app/](https://github.com/hitamcoklat/Jawa-Barat-Geo-JSON/blob/master/Jabar_By_Desa.geojson
+you can download the geojson file in https://github.com/hitamcoklat/Jawa-Barat-Geo-JSON/blob/master/Jabar_By_Desa.geojson
 
 ### cara pake:
 1. download file map.html,
