@@ -9,4 +9,7 @@ you can download the geojson file in https://github.com/hitamcoklat/Jawa-Barat-G
 3. buka terminal, change directory ke tempat map.html dan Jabar_By_Desa.geojson berada
 4. kalo sudah install python, tinggal jalankan command berikut di terminal '''python -m http.server 8000'''
 
-![Generated Image](Screenshot 2025-04-22 165010.png)
+<p align="center">
+  <img src="Screenshot 2025-04-22 165010.png" alt="Generated Image" width="500"/>
+</p>
+
