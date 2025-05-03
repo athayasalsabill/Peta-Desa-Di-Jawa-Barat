@@ -10,6 +10,6 @@ you can download the geojson file in https://github.com/hitamcoklat/Jawa-Barat-G
 4. kalo sudah install python, tinggal jalankan command berikut di terminal '''python -m http.server 8000'''
 
 <p align="center">
-  <img src="Screenshot 2025-04-22 165010.png" alt="Generated Image" width="500"/>
+  <img src="Screenshot 2025-04-22 165010.png" alt="Generated Image" width="800"/>
 </p>
 
